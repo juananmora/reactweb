@@ -1,0 +1,8 @@
+site_name: "reactweb"
+site_description: "reactweb"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
